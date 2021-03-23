@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tariksisss
+- 👀 I’m interested in Computer Vision
+- 🌱 I’m currently learning Computer Vision
