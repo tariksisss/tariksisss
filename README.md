@@ -1,6 +1,7 @@
 - 👋 Halo, Saya @tariksisss
 - 👀 Saya Tertarik di Bidang Computer Vision
 - 🌱 Saya Sedang Belajar Computer Vision
+- C++, Javascript, PHP, Python
 
 # Projek Saya
 - Analisis Sentimen Terhadap Penanganan Covid-19 Oleh Pemerintah Indonesia di Twitter Menggunakan Algoritma Multinomial Naive Bayes
